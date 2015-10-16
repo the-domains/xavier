@@ -1,6 +1,6 @@
 name: Xavier
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.28919
 cta:
   domain: null
   bucket: null
@@ -13,12 +13,6 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
 purpose:
   - name: sign-ups
     item: null
